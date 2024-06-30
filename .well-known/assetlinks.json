@@ -1,0 +1,13 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.profound",
+      "sha256_cert_fingerprints":
+      [
+        "5F:ED:5C:3B:CF:F2:02:01:93:45:F5:1C:93:16:77:16:77:66:C7:87:D7:64:CB:C3:BF:09:D9:D7:A8:33:A8:58",
+        "5F:ED:5C:3B:CF:F2:02:01:93:45:F5:1C:93:16:77:16:77:66:C7:87:D7:64:CB:C3:BF:09:D9:D7:A8:33:A8:58",
+        "5F:ED:5C:3B:CF:F2:02:01:93:45:F5:1C:93:16:77:16:77:66:C7:87:D7:64:CB:C3:BF:09:D9:D7:A8:33:A8:58"
+    ]
+    }
+  }]

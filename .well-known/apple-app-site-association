@@ -1,0 +1,16 @@
+{
+    "applinks":{
+      "apps":[
+         
+      ],
+      "details":[
+        {
+          "appIDs":[
+            "G59WT636P7.com.profound.app"
+          ],
+          "paths": ["*"]
+          
+        }
+      ]
+    }
+  }
